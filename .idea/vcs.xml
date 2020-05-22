@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Himnos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntegraTEST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IntegraV1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PipolProyecto/pipol-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pipolAndroidV2/pipol-android" vcs="Git" />
+  </component>
+</project>
